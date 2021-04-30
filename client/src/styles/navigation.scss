@@ -21,8 +21,10 @@ ul{
   width:60%;
   height:70px;
 
+
   li{
-    width:20%;
+  text-align: center;
+    width:25%;
     padding-left:5%;
     padding-right:5%;
     line-height:260%;
@@ -38,12 +40,12 @@ ul{
   li:last-child{
     margin-left:10%;
     margin-right:5%;
+    padding:0;
   }
 }
 
 .premium{
-    width:10%;
-    padding:auto;
+    width:15%;
     background-color: white;
     color: #005FFF;
     cursor: pointer;
