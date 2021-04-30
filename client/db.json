@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Go to work",
+      "day": "February 220",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Clean the house",
+      "day": "April 10 at 2pm",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Coding",
+      "day": "2",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "dsf",
+      "day": "dsf",
+      "reminder": true,
+      "id": 9
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 @import './styles/navigation';
+@import './styles/taskmanager';
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 *{
@@ -17,7 +18,7 @@ body::-webkit-scrollbar-track{
 }
 
 body{
-    color: #ffffff;
+    color: #000000;
     font-family: 'Poppins';
     font-weight: bold;
     font-size: 1.2rem;

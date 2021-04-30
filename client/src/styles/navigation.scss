@@ -6,7 +6,7 @@
 .remember{
   width:15%;
   margin-left: 5%;
-  font-size:1.2em;
+  font-size:1.4em;
   font-weight:900;
   letter-spacing: 0.05em;
   span{
@@ -39,13 +39,14 @@ ul{
   }
   li:last-child{
     margin-left:10%;
-    margin-right:5%;
+    margin-right:2%;
     padding:0;
   }
 }
 
 .premium{
     width:15%;
+    margin-right:2%;
     background-color: white;
     color: #005FFF;
     cursor: pointer;
