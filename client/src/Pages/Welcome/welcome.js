@@ -1,10 +1,13 @@
 import React from 'react'
+import Navigation from './Navigation'
+
+import './welcome'
 
 const welcome = () => {
     return (
-        <div>
-            <h1>What to pick</h1>
-        </div>
+        <>
+        <Navigation/>
+        </>
     )
 }
 

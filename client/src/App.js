@@ -1,9 +1,10 @@
 // Server
 import React from 'react'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+import './bootstrap.min.css';
 
 // Style
-import './App.css'
+import './App.scss';
 
 // Pages
 import Welcome from './Pages/Welcome/welcome'
