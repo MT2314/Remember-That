@@ -8,7 +8,7 @@ import Navigation from './Components/Navigation';
 import './App.scss';
 
 // Pages
-import Welcome from './Pages/Welcome/Welcome'
+import TaskManager from './Pages/Welcome/TaskManager'
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
     <Navigation/>
     <Router>
       <Switch>
-        <Route exact path="/" component={Welcome} />
+        <Route exact path="/" component={TaskManager} />
       </Switch>
     </Router>
     </>

@@ -55,5 +55,10 @@ ul{
     border-radius: 30px;
     border-width: 5px;
     border-color:#005FFF;
+    &:hover{
+    font-size: 1.1em;
+      background-color: #005FFF;
+      color: white;
+    }
 }
 

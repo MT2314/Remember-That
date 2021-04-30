@@ -21,7 +21,7 @@ const Navigation = () => {
                         <Nav.Link href="/contact">Contact</Nav.Link>
                     </Nav.Item>
                 </Nav>
-                <Button className="premium">Go Premium</Button>
+                <button className="premium">Go Premium</button>
 
             </Navbar>
         </>
